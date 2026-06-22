@@ -50,6 +50,3 @@ python main.py
 Then enter a coin name or symbol when prompted (e.g. `bitcoin` or `BTC`) to see its live price.
 
 ---
-
-
-
